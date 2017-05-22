@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:428649139239:android:d5571bd0e8868bfd",
+        "mobilesdk_app_id": "1:428649139239:android:12a2640e5d9ea9d2",
         "android_client_info": {
-          "package_name": "com.yourCompany.yourApp"
+          "package_name": "com.paymaster.payonline"
         }
       },
       "oauth_client": [
