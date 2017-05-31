@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>428649139239-lngr9qfhmjkalfi4al7k0k99v96euvc3.apps.googleusercontent.com</string>
+	<string>906356041245-d87td3tn1jjtbjovl2ndlqa1ff65htct.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.428649139239-lngr9qfhmjkalfi4al7k0k99v96euvc3</string>
+	<string>com.googleusercontent.apps.906356041245-d87td3tn1jjtbjovl2ndlqa1ff65htct</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDjiBHF7oOQcts49TYYKoyYfwFaE2Vgx-Q</string>
+	<string>AIzaSyAfeQ91V0K-n3j11BIFxEAv456Rzg-h_Ak</string>
 	<key>GCM_SENDER_ID</key>
-	<string>428649139239</string>
+	<string>906356041245</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.paymaster.payonine</string>
+	<string>com.paymaster.payonline</string>
 	<key>PROJECT_ID</key>
-	<string>paymaster-136fe</string>
+	<string>paymaster-5d755</string>
 	<key>STORAGE_BUCKET</key>
-	<string>paymaster-136fe.appspot.com</string>
+	<string>paymaster-5d755.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:428649139239:ios:8c430dc944db15e9</string>
+	<string>1:906356041245:ios:12a2640e5d9ea9d2</string>
 	<key>DATABASE_URL</key>
-	<string>https://paymaster-136fe.firebaseio.com</string>
+	<string>https://paymaster-5d755.firebaseio.com</string>
 </dict>
 </plist>
